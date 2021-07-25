@@ -1,0 +1,204 @@
+{ 
+	"flash":[
+
+		{
+			"id": 0,
+			"value" : "COTE D’IVOIRE: le peuple ne veut pas se soumettre à des décisions anti-démocratiques",
+			
+		},
+		{
+			"id": 1,
+			"value" : "FIFA : 3 équipes Africaines dans le TOP",
+		},
+
+		{
+			"id": 2,
+			"value" : "BENIN : le PRD réclame une élection présidentielle inclusive en 2021",
+		},
+
+		{
+			"id": 3,
+			"value" : "RDC : UNE QUINZAINE DE MILICIENS CONDAMNÉE À 20 ANS DE PRISON",
+		},
+
+	],
+
+	"actus":[
+
+		{
+			"id": 0,
+			"titre" : "TELESUD APPARTIENT AU GROUPE VISION4 SUR DÉCISION DU TRIBUNAL DE PARIS DU 11 FÉVRIER 2020",
+			"date" : "18/09/2020",
+			"imageUrl":"https://i.ytimg.com/vi/_U1ZIBqv0_Y/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDxWR95HADef9GE-r6t-7frIrtUEg",
+			"url": "_U1ZIBqv0_Y",
+			"tag" :"#Education#Vision4"
+		},
+
+		{
+			"id": 1,
+			"titre" : "LES CAMEROUNAIS DE LA DIASPORA MOBILISES EN SOUTIEN TOTAL AU PDG DU GROUPE L'ANECDOTE- ECHANGES",
+			"date" : "19/09/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/rTeuMzUmVic/mqdefault_6s.webp?du=3000&sqp=COLk-_sF&rs=AOn4CLB12sbub8uqR5KponZ4AVN64KqerA",
+			"url" : "owZujjEWAYA",
+			"tag" :"#Societé#ANECDOTE"
+		},
+
+		{
+			"id": 2,
+			"titre" : "ISSAM- LA MEILLEURE FORMATION SUR MESURE ET A MOINDRE COUT",
+			"date" : "17/09/2020",
+			"imageUrl":"https://i.ytimg.com/vi/7Rn1K4T_xX4/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB0XEz68QPO5ymXUPBEZXEHi9thaQ",
+			"url" : "7Rn1K4T_xX4",
+			"tag" : "#Education#ISSAM"
+
+		},
+
+		{
+			"id": 3,
+			"titre" : "ISSAM- VOTRE ÉCOLE HAUT STANDING POUR TOUS",
+			"date" : "17/09/2020",
+			"imageUrl":"https://i.ytimg.com/vi/QczxOf7qH6I/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB0xAADlPkrVOLwd-lBPFUQ4zk2hA",
+			"url": "QczxOf7qH6I",
+			"tag" : "#Education#ISSAM"
+		},
+
+		{
+		"id": 4,
+		"titre" : "COOPÉRATION TELESUD - GROUPE L'ANECDOTE",
+		"date" : "17/09/2020",
+		"imageUrl":"https://i.ytimg.com/vi/fjcvePn_dMM/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB-NcbEO_m0Pp49stitwTPvK6Albg",
+		"url": "fjcvePn_dMM",
+		"tag" : "Societé#L'ANECDOTE#TELESUD"
+		},
+
+		{
+			"id": 5,
+			"titre" : "AYOLO MVONDO ET AMOUGOU BELINGA POUR UNE MEILLEURE VISION AVEC TELESUD",
+			"date" : "17/09/2020",
+			"imageUrl":"https://i.ytimg.com/vi/bXMIVZxEzUk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDrobfWv7XFBQGQbbnY9HuHllRUWw",
+			"url": "2RqzbGUz_ug",
+			"tag" :"Societé#L'ANECDOTE#TELESUD"
+		}
+
+	],
+
+	"Replays":[
+
+		{
+			"id": 0,
+			"titre" : "LE 20H DU 09-10-2020- J.P AMOUGOU BELINGA INVITÉ  ",
+			"date" : "09/10/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/mV6KyxFQ7Z0/mqdefault_6s.webp?du=3000&sqp=CNDIhfwF&rs=AOn4CLAbq2V1Wj19JQSw3binYtOpYjXITA",
+			"url": "mV6KyxFQ7Z0"
+			
+		},
+
+		{
+			"id": 1,
+			"titre" : "LE 12H DU 21 SEPTEMBRE 2020- TELESUD REÇOIT L'ONCTION DE LA PRÉSIDENCE DU CAMEROUN -CHRISTINE TOULOU",
+			"date" : "121/09/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/d7clOelvYNg/mqdefault_6s.webp?du=3000&sqp=CKiBhvwF&rs=AOn4CLC9gIjBVXuwHiK0tjnkC3SJ0otMgg",
+			"url" : "d7clOelvYNg",
+		},
+
+		{
+			"id": 2,
+			"titre" : "LE JOURNAL D'AFRIQUE DU 22 SEPTEMBRE 2020- VISITE DE L’ÉQUIPE DIRIGEANTE DE TELESUD AU CAMEROUN",
+			"date" : "22/09/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/ww5eM17BrZQ/mqdefault_6s.webp?du=3000&sqp=CMSDhvwF&rs=AOn4CLBOZ6woIQMxCnT20ep8Sqg5N4tX9Q",
+			"url" : "ww5eM17BrZQ"
+		},
+
+		{
+			"id": 3,
+			"titre" : "COME BACK DE VOTRE ÉMISSION CULTE TOUR D'HORIZON- 30 PREMIÈRES MINUTES- J.J ZE, EKONG, BONGA, OWONA",
+			"date" : "17/09/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/CO8WDHX1q8s/mqdefault_6s.webp?du=3000&sqp=CJblhfwF&rs=AOn4CLDqWUvxYU8vrJyA0zMD8J7ld1xsVg",
+			"url": "CO8WDHX1q8sI"
+		},
+
+		{
+			"id": 4,
+			"titre" : "LA REVUE DE PRESSE DU 22 SEPTEMBRE 2020- ACTUALITÉ SUR LA MARCHE D'INSURRECTION DU 22 SEPTEMBRE 2020",
+			"date" : "22/09/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/pWwMo57xCac/mqdefault_6s.webp?du=3000&sqp=CPeXhvwF&rs=AOn4CLCA-y8W-LMdXt_Gd7vd299hmKqtyw",
+			"url": "pWwMo57xCac"
+		},
+
+		{
+			"id": 5,
+			"titre" : "L'église orthodoxe célèbre jean pierre amougou Belinga et les chefs traditionnels",
+			"date" : "21/09/2020",
+			"imageUrl":"https://i.ytimg.com/vi/GtaSMsEKSY0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBRFdVj02FnASD8HtpfJVJIREGhtA",
+			"url": "2RqzbGUz_ug"
+		},
+
+		{
+			"id": 6,
+			"titre" : "Come back tour d'horizon du 21 septembre 2020",
+			"date" : "21/09/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/hKwbkU2OnRE/mqdefault_6s.webp?du=3000&sqp=CKKChvwF&rs=AOn4CLBaQtlpZaXIrjBp5hVBKAfTW1tXww",
+			"url": "hKwbkU2OnRE"
+		},
+
+		{
+			"id": 7,
+			"titre" : "MEETING POINT DU 12 AOUT 2020",
+			"date" : "12/08/2020",
+			"imageUrl":"https://i.ytimg.com/an_webp/5dtzcB6CE3Y/mqdefault_6s.webp?du=3000&sqp=CI7xhfwF&rs=AOn4CLDcL7GjEsXBV6JwwNVlBThxA2xf6w",
+			"url": "5dtzcB6CE3Y"
+		},
+
+	],
+
+	"Tags":[
+
+		{
+			"id": 0,
+			"titre" : "Toute l'actu",
+			"couleur" : "brown"
+		},
+
+		{
+			"id": 1,
+			"titre" : "#Politique",
+			"couleur" : "red"
+		},
+
+		{
+			"id": 2,
+			"titre" : "#Culture",
+			"color" : "black"
+		},
+
+		{
+			"id": 3,
+			"titre" : "#Santé",
+			"couleur" : "green"
+		},
+
+		{
+			"id": 4,
+			"titre" : "#Sport",
+			"couleur" : "orange"
+		},
+
+
+		{
+			"id": 5,
+			"titre" : "#Étranger",
+			"couleur" : "violet"
+		},
+
+		{
+			"id": 5,
+			"titre" : "#Societé",
+			"couleur" : "gray"
+		}
+
+	],
+
+}	
+
+
+	

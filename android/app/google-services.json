@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155822165138",
+    "project_id": "sape-dfc6d",
+    "storage_bucket": "sape-dfc6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155822165138:android:bd6d4b9fd954ff62e06a4b",
+        "android_client_info": {
+          "package_name": "com.vision4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155822165138-j49v0snkl87j9fp13ur8cgrpa271mi3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdo4mzj8kG2ThwO0HOkkZ-vyxFKWJtHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155822165138-j49v0snkl87j9fp13ur8cgrpa271mi3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

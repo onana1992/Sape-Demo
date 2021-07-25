@@ -1,0 +1,56 @@
+[
+	{
+		"Id": 0,
+		"Name" : "ot:35993",
+		"PictureUrl":"../assets/Images/beauty.jpg",
+
+		
+	},
+	{
+		"Id": "ot:35995",
+		"Name" : "ANNE KLEIN",
+		"PictureUrl":"../assets/Images/brand2.jpg",
+	},
+
+	{
+		"Id": "ot:34659",
+		"Name" : "Armani",
+		"PictureUrl":"../assets/Images/brand3.jpg",
+	},
+
+	{
+		"Id": "ot:34646",
+		"Name" : "Burberry",
+		"PictureUrl":"../assets/Images/brand4.jpg",
+	},
+
+	{
+		"Id": "ot:34643",
+		"Name" :"Bershka",
+		"PictureUrl":"../assets/Images/brand5.jpg",
+	},
+
+	{
+		"Id": "ot:34700",
+		"Name" : "BOSS Hugo Boss",
+		"PictureUrl":"../assets/Images/brand6.jpg",
+
+	},
+
+	{
+		"Id": "ot:34654",
+		"Name" : "Bvlgari",
+		"PictureUrl":"../assets/Images/brand7.jpg",
+
+	},
+
+	{
+		"Id": "ot:34654",
+		"Name" : "Calvin Klein",
+		"PictureUrl":"../assets/Images/brand8.jpg",
+
+	}
+
+	
+	
+]
